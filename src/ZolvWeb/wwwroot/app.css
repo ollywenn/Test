@@ -1,0 +1,404 @@
+/* Zolv Travel Technology Website - Design System */
+
+/* ========== CSS Reset & Base ========== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    /* Primary Colors */
+    --color-primary-purple: #35226E;
+    --color-yellow-accent: #FDD712;
+    --color-white: #FFFFFF;
+    --color-black: #000000;
+    
+    /* Secondary Colors */
+    --color-dark-gray: #595959;
+    --color-light-purple: #C8C3D7;
+    --color-light-gray-bg: #EAEBF3;
+    
+    /* Accent Colors */
+    --color-pink: #FFADC9;
+    --color-light-blue: #B7E9FF;
+    --color-orange: #FFAD76;
+    --color-cyan: #99E4E5;
+    --color-green: #1BAA91;
+    
+    /* Typography */
+    --font-primary: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    
+    /* Spacing */
+    --container-max-width: 1400px;
+    --content-padding: 110px;
+    --section-spacing: 100px;
+    --card-spacing: 32px;
+}
+
+body {
+    font-family: var(--font-primary);
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--color-dark-gray);
+    line-height: 1.6;
+    background-color: var(--color-white);
+}
+
+/* ========== Typography ========== */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 600;
+    color: var(--color-black);
+    line-height: 1.2;
+}
+
+h1 { font-size: 64px; }
+h2 { font-size: 48px; }
+h3 { font-size: 38px; }
+h4 { font-size: 24px; }
+
+/* ========== Layout ========== */
+.page-wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.site-header {
+    background-color: var(--color-primary-purple);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+
+.site-main {
+    flex: 1;
+}
+
+.container {
+    max-width: var(--container-max-width);
+    margin: 0 auto;
+    padding: 0 var(--content-padding);
+}
+
+section {
+    padding: var(--section-spacing) 0;
+}
+
+/* ========== Navigation ========== */
+.navbar {
+    background-color: var(--color-primary-purple);
+    padding: 20px 0;
+}
+
+.navbar-container {
+    max-width: var(--container-max-width);
+    margin: 0 auto;
+    padding: 0 var(--content-padding);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-logo {
+    font-size: 32px;
+    font-weight: 700;
+    color: var(--color-white);
+    text-decoration: none;
+}
+
+.navbar-menu {
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 700;
+    color: var(--color-white);
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.nav-link:hover {
+    color: var(--color-yellow-accent);
+}
+
+.nav-link.active {
+    border-bottom: 3px solid var(--color-yellow-accent);
+    padding-bottom: 4px;
+}
+
+/* ========== Buttons ========== */
+.btn {
+    display: inline-block;
+    padding: 14px 32px;
+    font-size: 16px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    border: none;
+}
+
+.btn-primary {
+    background-color: var(--color-yellow-accent);
+    color: var(--color-black);
+}
+
+.btn-primary:hover {
+    background-color: var(--color-orange);
+    transform: translateY(-2px);
+}
+
+.btn-secondary {
+    background-color: var(--color-black);
+    color: var(--color-white);
+}
+
+.btn-secondary:hover {
+    background-color: var(--color-primary-purple);
+    transform: translateY(-2px);
+}
+
+/* ========== Footer ========== */
+.footer {
+    background-color: var(--color-primary-purple);
+    color: var(--color-white);
+    padding: 60px 0 30px;
+}
+
+.footer-container {
+    max-width: var(--container-max-width);
+    margin: 0 auto;
+    padding: 0 var(--content-padding);
+}
+
+.footer-brand {
+    margin-bottom: 40px;
+}
+
+.footer-logo {
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.footer-links {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+    margin-bottom: 40px;
+}
+
+.footer-column {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.footer-column a {
+    color: var(--color-white);
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.footer-column a:hover {
+    color: var(--color-yellow-accent);
+}
+
+.footer-info {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 30px;
+}
+
+.footer-copyright {
+    text-align: center;
+    font-size: 14px;
+    opacity: 0.7;
+}
+
+/* ========== Home Page ========== */
+.hero-section {
+    background-color: var(--color-primary-purple);
+    color: var(--color-white);
+    padding: 120px 0;
+    text-align: center;
+}
+
+.hero-title {
+    color: var(--color-white);
+    margin-bottom: 20px;
+}
+
+.hero-subtitle {
+    color: var(--color-white);
+    font-size: 32px;
+    margin-bottom: 30px;
+}
+
+.hero-description {
+    font-size: 20px;
+    margin-bottom: 60px;
+    color: var(--color-light-purple);
+}
+
+.client-logos {
+    margin-top: 60px;
+}
+
+.logos-grid {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+}
+
+.logos-grid span {
+    font-size: 18px;
+    font-weight: 600;
+    opacity: 0.8;
+}
+
+.section-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.section-subheading {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+    font-weight: 500;
+}
+
+.section-description {
+    text-align: center;
+    margin-bottom: 60px;
+}
+
+.models-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: var(--card-spacing);
+}
+
+.model-card {
+    background-color: var(--color-white);
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.model-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.model-card h5 {
+    margin-bottom: 15px;
+}
+
+.process-flow {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 600;
+    margin: 30px 0;
+    color: var(--color-primary-purple);
+}
+
+.solutions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: var(--card-spacing);
+    margin-bottom: 40px;
+}
+
+.solution-card {
+    background-color: var(--color-light-gray-bg);
+    padding: 30px;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+}
+
+.solution-card:hover {
+    background-color: var(--color-primary-purple);
+    color: var(--color-white);
+    transform: translateY(-4px);
+}
+
+.solution-card:hover h4 {
+    color: var(--color-white);
+}
+
+.solution-card h4 {
+    margin-bottom: 15px;
+}
+
+.brand-statement {
+    background-color: var(--color-primary-purple);
+    color: var(--color-white);
+    text-align: center;
+}
+
+.brand-statement h2 {
+    color: var(--color-white);
+    font-size: 56px;
+}
+
+.brand-statement .highlight {
+    color: var(--color-yellow-accent);
+}
+
+/* ========== Responsive ========== */
+@media (max-width: 1200px) {
+    :root {
+        --content-padding: 60px;
+    }
+    h1 { font-size: 48px; }
+    h2 { font-size: 38px; }
+}
+
+@media (max-width: 768px) {
+    :root {
+        --content-padding: 30px;
+        --section-spacing: 60px;
+    }
+    .navbar-menu {
+        flex-direction: column;
+        gap: 16px;
+    }
+    h1 { font-size: 36px; }
+    h2 { font-size: 32px; }
+    .footer-links {
+        grid-template-columns: 1fr;
+    }
+    .models-grid, .solutions-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* ========== Error UI ========== */
+#blazor-error-ui {
+    background: lightyellow;
+    bottom: 0;
+    box-shadow: 0 -1px 5px rgba(0, 0, 0, 0.2);
+    display: none;
+    left: 0;
+    padding: 0.6rem 1.25rem;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+}
+
+#blazor-error-ui .dismiss {
+    cursor: pointer;
+    position: absolute;
+    right: 0.75rem;
+    top: 0.5rem;
+}
