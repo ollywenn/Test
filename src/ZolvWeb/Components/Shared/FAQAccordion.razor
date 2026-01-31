@@ -1,0 +1,70 @@
+@rendermode InteractiveServer
+
+<div class="faq-accordion">
+    @foreach (var (faq, index) in faqs.Select((item, i) => (item, i)))
+    {
+        <div class="faq-item">
+            <button class="faq-question" @onclick="() => ToggleFAQ(index)">
+                <span>@faq.Question</span>
+                <span class="faq-icon">@(expandedItems.Contains(index) ? "−" : "+")</span>
+            </button>
+            @if (expandedItems.Contains(index))
+            {
+                <div class="faq-answer">
+                    <p>@faq.Answer</p>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+@code {
+    private HashSet<int> expandedItems = new();
+    
+    private void ToggleFAQ(int index)
+    {
+        if (expandedItems.Contains(index))
+        {
+            expandedItems.Remove(index);
+        }
+        else
+        {
+            expandedItems.Add(index);
+        }
+    }
+    
+    private List<FAQItem> faqs = new()
+    {
+        new FAQItem
+        {
+            Question = "What do integrations mean in a travel technology context?",
+            Answer = "Integrations allow different systems — booking engines, CRMs, payment providers and supplier APIs — to exchange data reliably and at the right time. In travel, this is essential for availability, pricing, bookings and customer communication."
+        },
+        new FAQItem
+        {
+            Question = "Why are integrations so important for travel businesses?",
+            Answer = "Because travel operations span multiple systems. Without robust integrations, teams rely on manual processes, data becomes inconsistent, and customer experience suffers."
+        },
+        new FAQItem
+        {
+            Question = "What systems can Zolv integrate with?",
+            Answer = "We regularly integrate with reservation systems, CRMs, payment gateways, supplier APIs and third-party tools. Where an API exists — or can be sensibly created — we can usually integrate."
+        },
+        new FAQItem
+        {
+            Question = "How do integrations improve customer experience?",
+            Answer = "By enabling real-time data, smoother booking journeys, faster post-booking processes and fewer errors that spill over into customer service."
+        },
+        new FAQItem
+        {
+            Question = "Do you use AI in integrations?",
+            Answer = "Where it adds value. AI can support enrichment, classification and optimisation — but reliability and correctness always come first."
+        }
+    };
+    
+    private class FAQItem
+    {
+        public string Question { get; set; } = "";
+        public string Answer { get; set; } = "";
+    }
+}
