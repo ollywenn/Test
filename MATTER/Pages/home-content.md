@@ -1,168 +1,112 @@
-# Zolv - Travel Technology Solutions
+# WE ARE YOUR DEVELOPMENT PARTNER
 
-## Navigation Header
-- Our approach
-- Platform  
-- Integrations
-- Case studies
-- Insights
-- About
-- Client login
-- **[Button]**
+## Unlocking better customer experiences from the travel systems you already use
 
----
-
-## Hero Section
-
-### WE ARE YOUR NEW DEVELOPMENT PARTNER
-
-# Unlocking customer experiences with your existing **travel tech.**
-
-We specialise in providing tailored, tech-driven solutions for travel companies.
+We design, build and integrate digital platforms for travel companies who want more from the systems they already run.  
+No rip-and-replace. No theatre. Smart, well-engineered solutions.
 
 *A few of our travel partners*
 
----
-
-## Partner Logos Section
-*[Row of travel company logos including Virgin Holidays, Ramble Worldwide, CV Villas, and others]*
-
----
+* * *
 
 ## How we partner
 
-We partner with travel companies at every stage of their journey
+### We partner with travel companies at every stage of their journey
 
-### Partnership Options:
+Some clients come to us with a single integration problem.  
+Others want a long-term technical partner who can design, build and support their digital estate as it evolves.
 
-1. **Integration and development** *(Less emphasis)*
-2. **Design build and support** - *A popular choice with our clients* ✨
-3. **Development partner** *(Less emphasis)*
-4. **Strategic partner** *(Less emphasis)*
-5. **Strategic consultancy** *(Less emphasis)*
+### Partnership models
 
-### Design build and support
+**Integration and development**  
+Targeted delivery when you need capability quickly or a specific problem solved.
 
-**Process Flow:**
-Research → Strategy → **Design** → Build → Integration → Production support
+**Design, build and support**  
+End-to-end responsibility for delivery, with ongoing involvement once the platform is live.
 
-*Deeper partnership - we design and build and Support live running. A number of hours are retained to do maintenance and small developments.*
+**Development partner**  
+An embedded engineering capability aligned to your roadmap and ways of working.
 
-**[More about our approach]**
+**Strategic partner**  
+Longer-term collaboration across platforms, data and customer experience.
 
----
+**Strategic consultancy**  
+Architecture, capability and direction — before you commit to build.
 
-## WTP PLATFORM
+* * *
 
-### Our platform reveals the possibilities for your online travel services.
+## Design, build and support
 
-Our system enhances your operations by providing added value and opportunities that unlock new experiences with your reservation system, combined with WTP - you can create exceptional customer experiences that drive satisfaction and loyalty - 90% of what we create is bespoke to you.
+**Research → Strategy → Design → Build → Integration → Production support**
 
-**Platform Ecosystem Diagram:**
-- **Your travel platform** (Central)
-- Connected to: API, Book flow, Systems, CRM, Support
+This is where most of our clients land.
 
-**[More about WTP platform]**
+We take responsibility for the full lifecycle — from understanding your commercial goals, to designing the experience, building the platform and integrating it with your existing systems.  
+We stay involved after launch, retaining time for optimisation, maintenance and incremental improvement — so the platform keeps moving forward.
 
----
+**More about our approach**
 
-## Things we've built
+* * *
 
-Innovative travel solutions designed to enhance user engagement and streamline operations.
+## Web Travel Platform
 
-### Our Solutions Grid:
+### Our platform reveals what’s possible with your online travel services
 
-**Row 1:**
-- 🛒 **B2C transactional websites**
-  - Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo
-  
-- 📊 **B2B agent portals**  
-  - Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo
+Your reservation system is very good at taking bookings.  
+Our Web Travel Platform (WTP) is what turns it into a compelling customer experience.
 
-- 🏢 **Booking management systems**
-  - Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo
+WTP sits alongside your existing systems, unlocking new journeys, richer content, better performance and more control — without forcing you into a monolithic rebuild.  
+Around **90% of what we deliver is bespoke**, because travel businesses rarely operate in neat, identical ways.
 
-**Row 2:**  
-- 💳 **Post booking portals**
-  - Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo
-  
-- 📈 **Travel agent dashboards**
-  - Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo
+**More about the WTP platform**
 
-- 🔗 **Booking APIs**
-  - Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo
+* * *
 
-**[Explore integrations]**
+## Things we’ve built
 
----
+### Travel technology designed for real-world complexity
 
-## ✨ Tailored, tech-driven solutions for **travel companies**
+We don’t sell productised “solutions”.  
+We build platforms that fit the way travel businesses actually work.
 
----
+**B2C transactional websites**  
+Booking journeys that balance inspiration, content and conversion.
+
+**B2B agent portals**  
+Tools that make agents faster, more informed and more effective.
+
+**Booking management systems**  
+Internal platforms that reduce friction, errors and manual effort.
+
+**Post-booking portals**  
+Customer-facing tools that reduce support pressure while improving service.
+
+**Travel agent dashboards**  
+Insight-led views of performance, availability and customer behaviour.
+
+**Booking and integration APIs**  
+Clean, dependable interfaces between systems that were never designed to talk to each other.
+
+**Explore integrations**
+
+* * *
+
+## Tailored, tech-driven solutions for **travel companies**
+
+* * *
 
 ## Latest case studies
 
-### Featured Case Studies:
+### Proven delivery, measurable outcomes
 
-1. **Virgin holidays** →
-   *[Red themed case study card]*
+A snapshot of how we work with travel brands in practice.
 
-2. **Ramble Worldwide** →
-   *[Dark blue themed case study card]*
+**View all case studies**
 
-3. **CV Villas** →
-   *[Dark teal themed case study card]*
+* * *
 
-**[View all case studies]**
+## Industry insight from people who build this stuff for a living
 
----
+Practical thinking from people who design, build and support travel platforms every day.
 
-## Explore industry insights
-
-Stay updated on the latest travel trends and technologies shaping the industry.
-
-**[Explore our insights]**
-
----
-
-## Footer
-
-### Zolv Logo
-
-**Services Links:**
-- Services
-- Platform  
-- Integrations
-- Case studies
-
-**Company Links:**
-- Insights
-- About
-- Client login
-- Contact
-
-**Legal Links:**
-- Privacy policy
-- Terms and conditions
-
-**Microsoft partner**
-
-**Social Media:** Facebook | Instagram | Twitter
-
-© 2025 Zolv Ltd. All Rights Reserved.
-
----
-
-## Key Brand Colors Used:
-- Primary Purple: `#35226E`
-- Yellow Accent: `#FDD712`
-- White: `#FFFFFF`
-- Light Gray: `#EAEBF3`
-- Dark Text: `#000000`
-- Secondary Text: `#595959`
-
-## Typography:
-- Primary Font: Plus Jakarta Sans
-- Secondary Font: SF Pro Display
-- Heading weights: SemiBold (600), ExtraBold (800)
-- Body weights: Medium (500), Regular (400)
+**Explore our insights**

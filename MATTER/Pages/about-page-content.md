@@ -1,152 +1,90 @@
-# About Page Content 
+## About
 
-### About Hero Section
-- **Background**: Purple (#35226E) with decorative background pattern and geometric shapes
-- **Main Title**: "About" (64px white text)
-- **Subtitle**: "We believe in fostering a supportive and inclusive work environment" (20px light purple text)
-- **Decorative Elements**: 
-  - Colored geometric shapes (pink, white, purple rectangles)
-  - Travel photography frames positioned at corners
-  - Decorative line elements
-- **Video Background**: Placeholder indicator for dynamic content
+### A travel technology partner, not a generic digital agency
 
-### Mission Statement Section
-- **Background**: Light gray (#EAEBF3)
-- **Decorative Elements**: 
-  - Sparkle/star icon (112px)
-  - Colored geometric shapes (yellow, white, cyan rectangles)
-  - Map pin icon on cyan shape
-  - Travel photography frames
-- **Content**:
-  - Main Heading: "We strive to bridge the gap between technology and the travel industry" (64px purple text)
-  - Decorative line separator
-- **Height**: 740px full-width section
+We work with travel businesses who need technology to do real work — handle complexity, scale reliably and support the way their teams actually operate.
 
-### Company Images Section
-- **Background**: White
-- **Layout**: Collage-style image arrangement showing office spaces and work environment
-- **Images**: 
-  - Office interior shots
-  - Work environment photography
-  - Team workspace imagery
-  - Modern office design elements
-- **Height**: 1102px section with asymmetric image placement
+Zolv exists to bridge the gap between commercial ambition and technical reality in the travel sector. We design, build and support platforms that respect existing systems while unlocking better performance and customer experience.
 
-### Our Story Section
-- **Background**: White
-- **Section Title**: "Our story" (48px heading) with decorative underline accent
-- **Timeline Layout**: Vertical timeline with key company milestones
-  - **2002**: "We launched and developed our CMS"
-    - Client list: Olympic Holidays, Leeds Chamber of Commerce, Skandia Life, Leeds Chamber of commerce
-  - **2003**: "Clients grew to include" (slightly faded)
-    - Client list: Hotfoot Holidays, Active Quality Recruitment, THS Tools Group, Sentinel Will Storage, 0800 Flowers
-  - **2004**: "Moved to larger office" (more faded)
-    - Description: Office expansion and infrastructure development details
-- **Visual Elements**: 
-  - Vertical timeline line with circular markers
-  - Background image element
-  - Orange and white geometric accent shapes
-  - Typography hierarchy with varying opacity levels
+* * *
 
-### What Makes Us Unique Section
-- **Background**: Light gray (#EAEBF3)
-- **Layout**: Two-column with text left, branded visual right
-- **Content**:
-  - Title: "What makes us unique?" (48px heading)
-  - Body Text: Detailed explanation of travel industry expertise and end-to-end services
-  - Emphasis on being "true travel tech partner" and comprehensive support
-- **Visual**: 
-  - Purple background with decorative pattern
-  - Large Zolv logo in white
-  - Geometric accent shapes (blue, orange, pink, white)
+## Our mission
 
-### Meet the Founder Section
-- **Background**: White
-- **Layout**: Two-column with circular image left, text right
-- **Content**:
-  - Title: "Meet Olly Wenn – Founder & Managing Director of Zolv" (48px heading)
-  - Biography: Comprehensive founder background and company vision
-  - Focus on Digital Sales evolution and travel industry expertise
-- **Visual**: Large circular founder photograph placeholder
+### Bridging technology and travel — properly
 
-### Careers Section
-- **Background**: Light gray (#EAEBF3)
-- **Layout**: Two-column with description left, job listings right
-- **Content**:
-  - Title: "Careers" (48px heading)
-  - Description: Company culture and opportunities overview
-  - Job Listings: 3 position cards
-    - **Principal Software Engineer / Tech Lead**: Leeds, Full time
-    - **Web developer**: Leeds, Full time  
-    - **Graduate developer**: Leeds, Full time
-- **Card Design**: White background, rounded corners, job title, location, application buttons
+Travel businesses rarely have the luxury of starting again. They inherit systems, suppliers and processes that matter commercially, even when they’re awkward technically.
 
-### Brand Statement Section (Repeated)
-- **Background**: Purple (#35226E) with decorative background image
-- **Decorative Elements**: 
-  - Colored geometric shapes
-  - Travel photography frames 
-  - Sparkle/star icon (112px)
-- **Content**:
-  - Main Heading: "Tailored, tech-driven solutions for **travel companies**" (64px white text with yellow highlight)
-  - Decorative line separator
+Our role is to work within that reality — connecting, extending and improving what’s already there, rather than forcing wholesale replacement.
 
-### Get in Touch Section
-- **Background**: White
-- **Content**:
-  - Title: "Get in touch" (48px heading)
-  - Subtitle: "We are more than just a service provider, we are your dedicated travel tech partner." (20px text)
-  - CTA Button: "Partner with us" (black background, white text)
+* * *
 
-### Footer
-- **Background**: Purple (#35226E) with decorative background overlay
-- **Logo**: White Zolv logo
-- **Navigation Links**: 
-  - Column 1: Services | Platform | Integrations | Case studies
-  - Column 2: Insights | About | Client login | Contact  
-  - Column 3: Privacy policy | Terms and conditions
-- **Partnership**: "Microsoft partner" designation
-- **Social Media**: Facebook, Instagram, Twitter icons
-- **Copyright**: "© 2025 Zolv Ltd. All Rights Reserved."
+## Our story
 
----
+### Built in travel, shaped by delivery
 
-## Content Structure
+**2002**  
+Zolv began life building content-managed websites at a time when most digital platforms were static. Early clients included Olympic Holidays and Leeds Chamber of Commerce, setting the foundations for our focus on structured content and scalable systems.
 
-### Company Information
-1. **Mission Statement**: Bridge gap between technology and travel industry
-2. **Company History**: Timeline from 2002 foundation through growth milestones
-3. **Unique Value Proposition**: Travel tech partnership approach
-4. **Leadership**: Founder profile and vision
-5. **Career Opportunities**: Open positions and company culture
+**2003**  
+Our client base expanded across travel, recruitment and professional services, sharpening our ability to adapt platforms to different commercial models.
 
-### Visual Storytelling Elements
-- **Office Photography**: Multiple workspace and environment images
-- **Timeline Visualization**: Clear progression of company development
-- **Brand Integration**: Consistent use of Zolv branding throughout
-- **Geometric Design**: Decorative shapes and patterns for visual interest
-- **Professional Photography**: High-quality imagery supporting content narrative
+**2004**  
+As projects grew in size and complexity, so did the business — moving into larger offices and investing further in platform capability.
 
-### Interactive Elements
-- Career application buttons for each job listing
-- "Partner with us" contact CTA
-- Social media links
-- Navigation menu items
-- Footer links
+Since then, our work has increasingly focused on travel businesses with complex operational requirements — booking systems, integrations, content-heavy journeys and long-term platform evolution.
 
-### Content Themes
-- **Heritage & Growth**: 20+ year company history and client evolution
-- **Expertise**: Deep travel industry knowledge and technical capabilities
-- **Partnership**: Emphasis on collaborative, supportive client relationships
-- **Innovation**: Technology-driven solutions and platform evolution
-- **Team & Culture**: Founder leadership and inclusive work environment
+* * *
 
-### Responsive Considerations
-- Full-width hero sections (1400px)
-- Contained content areas with proper padding (110px horizontal)
-- Flexible image grid layouts
-- Timeline responsive design
-- Mobile-friendly card layouts
-- Scalable typography system
+## What makes us different
 
-This About page provides comprehensive company information combining heritage, expertise, team, and opportunities in a visually engaging format that reinforces Zolv's position as a leading travel technology partner.
+### Deep travel experience, end-to-end responsibility
+
+We’re not a generalist agency that occasionally works in travel.
+
+Travel is what we know — from reservation systems and supplier APIs through to post-booking, operations and support.
+
+That experience allows us to take responsibility end-to-end: thinking commercially, designing realistically, building robustly and supporting platforms once they’re live.
+
+Clients work with us because we understand the constraints they’re operating under — and design within them, not around them.
+
+* * *
+
+## Meet the founder
+
+### Olly Wenn – Founder & Managing Director
+
+Olly founded Zolv with a focus on building digital platforms that actually survive contact with real users and real businesses.
+
+With over two decades of experience in digital delivery — much of it in travel — he remains closely involved in shaping how Zolv approaches platform design, integration and long-term support.
+
+The emphasis has always been the same: pragmatic decisions, clear trade-offs and technology that earns its keep.
+
+* * *
+
+## Careers
+
+### Work on platforms that matter
+
+We’re a small, experienced team working on complex travel platforms — not throwaway marketing sites.
+
+If you enjoy solving real problems, working with legacy and modern systems side-by-side, and taking responsibility for what you build, you’ll fit in well here.
+
+**Current opportunities**
+
+- Principal Software Engineer / Tech Lead — Leeds, full-time
+- Web Developer — Leeds, full-time
+- Graduate Developer — Leeds, full-time
+
+* * *
+
+## Tailored, tech-driven solutions for **travel companies**
+
+* * *
+
+## Get in touch
+
+### A partner you can rely on, not just a supplier
+
+If you’re looking for a team that understands travel systems, works pragmatically and stays involved after launch, we should talk.
+
+**Partner with us**

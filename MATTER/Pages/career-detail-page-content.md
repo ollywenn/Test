@@ -1,138 +1,69 @@
-# Career Detail Page Content
+## Principal Software Engineer / Tech Lead
 
-## Design System
-- **Typography**: Plus Jakarta Sans (Primary), SF Pro Display (Secondary)
-- **Colors**: 
-  - Primary Purple: #35226E
-  - Yellow Accent: #FDD712  
-  - Light Gray Background: #FAFAFA
-  - White: #FFFFFF
-  - Dark Gray Text: #000000
-  - Medium Gray Text: #595959
-  - Light Purple Text: #C8C3D7
-  - Light Gray: #E8E8E8
-  - Border Gray: #CDCED4
-- **Layout**: Full-width responsive design
-- **Components**: Job hero, content sections, application form, interactive map
+**Leeds · Full time · Salary £DOE**
 
----
+* * *
 
-## Page Structure
+## Overview
 
-### Header Navigation
-- **Logo**: Zolv logo positioned left
-- **Navigation Menu**: Our approach | Platform | Integrations | Case studies | Insights | About (active with yellow underline) | Client login
-- **CTA Button**: "Contact" (yellow background)
-- **Background**: Purple (#35226E) with decorative background image
+This is a senior, hands-on role working on complex travel platforms used by real businesses, every day.
 
-### Job Hero Section
-- **Background**: Purple (#35226E) with decorative background pattern
-- **Job Title**: "Principal Software Engineer / Tech Lead" (56px white text)
-- **Job Details**: "Leeds, Full time, Salary £xxx DOE" (20px light purple text)
-- **Back Arrow**: Left navigation arrow (rotated) for returning to careers page
-- **Video Background**: Placeholder indicator for dynamic content
+You’ll be involved in shaping technical direction, making pragmatic architectural decisions, and leading delivery across projects that integrate with reservation systems, APIs and long-lived platforms.
 
-### Job Information Section 1
-- **Background**: White
-- **Layout**: Two-column with vertical separator line
-- **Left Column**: 
-  - **Overview** (38px heading)
-  - Job description with placeholder Lorem ipsum text (20px medium weight)
-- **Right Column**: 
-  - **Responsibilities** (38px heading)
-  - Detailed responsibilities with placeholder Lorem ipsum text (20px medium weight)
-- **Visual Element**: Vertical decorative line separator between columns
+We’re not looking for someone to “set standards and step back”.  
+We’re looking for someone who enjoys doing the work — and taking responsibility for it.
 
-### Job Information Section 2
-- **Background**: White with top border separator
-- **Layout**: Two-column with vertical separator line
-- **Left Column**: 
-  - **Benefits** (38px heading)
-  - Company benefits with placeholder Lorem ipsum text (20px medium weight)
-- **Right Column**: 
-  - **Candidate profile** (38px heading)
-  - Required qualifications with placeholder Lorem ipsum text (20px medium weight)
-- **Visual Element**: Vertical decorative line separator between columns
+* * *
 
-### Application Section
-- **Background**: Light gray (#FAFAFA)
-- **Layout**: Two-column with map left, form right
-- **Left Column**: 
-  - Interactive map showing office location
-  - Office building photograph overlay
-  - Map appears to show Leeds area with location pin
-- **Right Column**: 
-  - **"Apply now"** heading (48px)
-  - Application form with fields:
-    - First name (labeled input field)
-    - Last name (labeled input field)  
-    - Email (labeled input field)
-    - Message (larger textarea field)
-  - **"Apply now"** button (outlined style)
-- **Form Design**: Clean white input fields with labels, rounded corners
+## Responsibilities
 
-### Footer
-- **Background**: Purple (#35226E) with decorative background overlay
-- **Logo**: White Zolv logo
-- **Navigation Links**: 
-  - Column 1: Services | Platform | Integrations | Case studies
-  - Column 2: Insights | About | Client login | Contact  
-  - Column 3: Privacy policy | Terms and conditions
-- **Partnership**: "Microsoft partner" designation
-- **Social Media**: Facebook, Instagram, Twitter icons
-- **Copyright**: "© 2025 Zolv Ltd. All Rights Reserved."
+- Leading technical delivery across client projects
+- Designing and evolving platform architecture in real-world constraints
+- Working hands-on with modern .NET, APIs and integrations
+- Making clear, defensible technical trade-offs
+- Supporting and mentoring other engineers
+- Working closely with product, delivery and client stakeholders
+- Taking responsibility for platforms once they’re live, not just at launch
 
----
+You’ll have autonomy, but not isolation. Decisions are discussed, challenged and owned.
 
-## Content Structure
+* * *
 
-### Job Information Hierarchy
-1. **Job Title & Details**: Clear position identification and basic terms
-2. **Overview**: High-level job description and purpose
-3. **Responsibilities**: Specific duties and expectations
-4. **Benefits**: Company perks and compensation details
-5. **Candidate Profile**: Required skills and qualifications
-6. **Application Process**: Direct application form with contact fields
+## Benefits
 
-### Interactive Elements
-- **Back Navigation**: Return to careers listing
-- **Contact Form**: Direct job application submission
-  - Personal information fields (first name, last name, email)
-  - Message field for cover letter or additional information
-  - Application submission button
-- **Social Media Links**: Company social presence
-- **Footer Navigation**: Complete site navigation
+We don’t dress this up. What we offer is straightforward and grown-up.
 
-### Visual Design Features
-- **Sectioned Layout**: Clear separation between job information and application
-- **Vertical Separators**: Visual dividers between content columns
-- **Map Integration**: Office location context for potential employees
-- **Form Design**: Clean, accessible input fields with proper labeling
-- **Professional Typography**: Clear hierarchy with appropriate font weights and sizes
+- Competitive salary based on experience
+- Sensible working hours
+- Flexible working arrangements
+- Long-term projects, not constant churn
+- A team that values clarity over ego
+- The chance to work on platforms that matter to real businesses
 
-### Content Areas (Placeholder Content)
-- **Job Overview**: Role purpose and company context
-- **Key Responsibilities**: Day-to-day duties and expectations
-- **Benefits Package**: Compensation, perks, and working conditions
-- **Ideal Candidate**: Skills, experience, and qualifications required
+If you’re looking for ping-pong tables or novelty perks, this probably isn’t the right place.
 
-### Geographic Context
-- **Office Location**: Leeds-based position clearly indicated
-- **Interactive Map**: Visual representation of workplace location
-- **Office Photography**: Physical workspace context
+* * *
 
-### Application Process
-- **Streamlined Form**: Essential information collection
-- **Direct Submission**: In-page application without external redirect
-- **Personal Information**: Name and contact details
-- **Cover Message**: Opportunity for candidate to introduce themselves
+## Candidate profile
 
-### Responsive Considerations
-- Full-width hero sections (1400px)
-- Contained content areas with proper padding (110px horizontal)
-- Two-column layouts with appropriate gap spacing
-- Form field responsive design
-- Mobile-friendly input and button sizing
-- Scalable typography system
+You’ll likely be a good fit if you:
 
-This Career Detail page provides comprehensive job information and a streamlined application process, maintaining professional design standards while offering clear pathways for candidate engagement and application submission.
+- Have strong experience with C#, .NET and API-driven systems
+- Are comfortable working with legacy and modern systems side-by-side
+- Understand the realities of long-lived platforms and integrations
+- Can explain *why* a solution makes sense, not just how it works
+- Care about maintainability, not just initial delivery
+- Are comfortable taking responsibility for decisions
+
+Experience in travel or highly integrated industries is a bonus, but not required.
+
+Good judgement matters more than buzzwords.
+
+* * *
+
+## Apply now
+
+If this sounds like the kind of work you want to be doing, we’d like to hear from you.
+
+Use the form to introduce yourself and tell us a bit about what you’ve been working on recently.  
+CVs are useful; thoughtful context is better.

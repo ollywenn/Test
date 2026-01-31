@@ -1,145 +1,94 @@
-# Integrations Page
+## Integrations
 
-## Hero Section
-- **Main Heading**: "Integrations"
-- **Subheading**: "We allow for real-time data exchange and automation of processes"
-- **Background**: Purple theme
-- **Navigation**: Integrations (active/highlighted)
+### Connecting the systems your business already depends on
 
-## Navigation
-- Our approach
-- Platform
-- Integrations (active/highlighted)
-- Case studies
-- Insights
-- About
-- Client login
+Modern travel businesses run on a patchwork of platforms — reservation systems, CRMs, payment providers, supplier APIs and internal tools.
 
-## Why Integrations Matter Section
+Integrations are what turn that patchwork into something that actually works.
 
-### Why integrations matter
+We design and build integrations that allow systems to exchange data reliably, automate key processes and stay in sync — without introducing fragility or long-term maintenance pain.
 
-Integrations are essential for travel businesses to operate effectively. They enable systems to communicate, automate processes, and provide a seamless experience. By connecting different software solutions, allowing for real-time data exchange and automation of key business processes.
+* * *
 
-### Key benefits:
-- Streamlines manual tasks and reduces errors
-- Provides customers with real-time availability and pricing
-- Improves operational efficiency and reduces manual data entry
-- Allows for better customer experience through process improvements
-- Enables consistent data accuracy in all systems
-- Allows comprehensive monitoring and reporting through integration with various systems
+## Why integrations matter
 
-**Visual**: Integration diagram showing connected systems and data flow
+### Integration is not a technical detail. It’s an operational advantage.
 
-## Our Integrations Section
+When systems don’t talk properly, teams compensate with manual work, duplicated effort and workarounds that slowly become business-critical.
 
-### Our integrations
-*Integrations are crucial a successful technology. They are a strategic advantage.*
+Well-designed integrations remove that friction.
 
-**Integration Categories Grid (2 rows x 3 columns):**
+They enable real-time availability and pricing, reduce errors, improve reporting accuracy and allow teams to focus on customers rather than administration.
 
-### Row 1:
-1. **Booking Engines**
-   Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo lorem proin at mattis malesuada.
+### What good integrations unlock
 
-2. **CRM Systems**
-   Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo lorem proin at mattis malesuada.
+- Reduced manual effort and fewer operational errors
+- Real-time availability, pricing and booking data
+- Faster, more reliable customer journeys
+- Consistent data across systems and teams
+- Better monitoring, reporting and visibility
+- Integrations that remain maintainable over time
 
-3. **Payment Gateways**
-   Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo lorem proin at mattis malesuada.
+* * *
 
-### Row 2:
-4. **Hotel & Flight APIs**
-   Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo lorem proin at mattis malesuada.
+## Our integrations
 
-5. **Customer Management Systems**
-   Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo lorem proin at mattis malesuada.
+### Integration done properly is a strategic advantage
 
-6. **Third-Party Tools**
-   Lorem ipsum dolor sit amet consectetur. Sit habitasse proin neque commodo lorem proin at mattis malesuada.
+We don’t “wire things together and hope for the best”.
 
-## FAQ Section
+Our integrations are designed with resilience, observability and change in mind — because travel systems evolve, suppliers change, and volume fluctuates.
 
-### FAQ
+### Integration categories
 
-**Questions:**
+**Booking engines**  
+Deep integrations with reservation systems to support availability, pricing, booking flows and post-booking activity — without constraining customer experience.
 
-1. **What are integrations in the context of travel technology?**
-   From a technology perspective to expanding customer engagement and performance metrics integrations play a crucial role. Our platform supports common gateways, and CRM tools.
+**CRM systems**  
+Reliable data flows between bookings, customers and communications, supporting marketing, service and operational reporting.
 
-2. **Why are integrations important for my travel business?**
-   [Expandable content]
+**Payment gateways**  
+Secure, compliant integrations supporting multiple payment methods, providers and transaction models.
 
-3. **What systems can Zolv integrate with?**
-   [Expandable content]
+**Hotel & flight APIs**  
+Supplier integrations designed to cope with rate changes, availability updates and real-world data inconsistencies.
 
-4. **How do integrations improve customer experience?**
-   [Expandable content]
+**Customer management systems**  
+Operational tools that keep customer data accurate, accessible and actionable across teams.
 
-5. **Benefits of AI-powered integrations in travel technology?**
-   [Expandable content]
+**Third-party tools**  
+Analytics, marketing, content and specialist services integrated cleanly into the wider platform.
 
-## Case Studies Section
+* * *
 
-### Case studies
-*Find out how we have supported working with travel businesses*
+## FAQ
 
-**CTA**: View insights
+### What do integrations mean in a travel technology context?
 
-## Footer
-Standard footer with:
-- Services, Platform, Integrations, Case studies
-- Insights, About, Client login, Contact
-- Privacy policy, Terms and conditions
-- Microsoft partner
-- Social media links
-- © 2025 Zolv Ltd. All Rights Reserved.
+Integrations allow different systems — booking engines, CRMs, payment providers and supplier APIs — to exchange data reliably and at the right time. In travel, this is essential for availability, pricing, bookings and customer communication.
 
----
+### Why are integrations so important for travel businesses?
 
-## Design Specifications
+Because travel operations span multiple systems. Without robust integrations, teams rely on manual processes, data becomes inconsistent, and customer experience suffers.
 
-### Color Palette
-- **Primary Purple**: #35226E
-- **White**: #FFFFFF
-- **Black**: #000000
-- **Gray Text**: #595959
-- **Light Gray Background**: #EAEBF3
-- **Integration Icons**: Various colors (blue, orange, etc.)
+### What systems can Zolv integrate with?
 
-### Typography
-- **Primary Font**: Plus Jakarta Sans
-- **Hero Heading**: 64px, SemiBold, #FFFFFF
-- **Section Headings**: 48px, SemiBold, #000000
-- **Subsection Headings**: 24px, SemiBold, #000000
-- **Body Text**: 20px, Medium, #595959
-- **Button Text**: 16px, Bold
-- **Navigation**: 16px, Bold, #FFFFFF
+We regularly integrate with reservation systems, CRMs, payment gateways, supplier APIs and third-party tools. Where an API exists — or can be sensibly created — we can usually integrate.
 
-### Visual Elements
-- **Integration Diagram**: Connected systems visualization
-- **Category Cards**: 6 integration type cards with icons
-- **FAQ Accordion**: Expandable question format
-- **Icons**: System-specific integration icons
+### How do integrations improve customer experience?
 
-### Layout Structure
-- Full-width hero section
-- Two-column benefits section (text + visual)
-- 6-card integration categories grid
-- FAQ section with expandable items
-- Case studies CTA section
-- Standard footer
+By enabling real-time data, smoother booking journeys, faster post-booking processes and fewer errors that spill over into customer service.
 
-### Interactive Elements
-- **Navigation**: Active state for Integrations
-- **FAQ Accordion**: Expandable question items
-- **Integration Cards**: Hover states
-- **CTA Buttons**: Rounded button styles
+### Do you use AI in integrations?
 
-### Key Messaging
-- Real-time data exchange
-- Process automation
-- Strategic advantage through integrations
-- Streamlined operations
-- Enhanced customer experience
-- System connectivity and efficiency
+Where it adds value. AI can support enrichment, classification and optimisation — but reliability and correctness always come first.
+
+* * *
+
+## Case studies
+
+### Integration in practice
+
+See how integrations have helped our clients simplify operations, improve performance and scale without replacing their core systems.
+
+**View case studies**
