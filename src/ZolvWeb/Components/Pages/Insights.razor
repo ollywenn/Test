@@ -1,0 +1,73 @@
+@page "/insights"
+@rendermode InteractiveServer
+
+<PageTitle>Insights - Zolv</PageTitle>
+
+<section class="hero-section">
+    <div class="container">
+        <h2 class="section-heading" style="color: white;">Insights</h2>
+        <h3 class="section-subheading" style="color: white;">Thinking from inside real travel platforms</h3>
+        <p class="hero-description">
+            We use this space to share what we're seeing across live projects — the decisions that worked, the ones that didn't, 
+            and the trade-offs most travel teams are quietly dealing with.
+        </p>
+        <p class="hero-description">
+            It's not a news feed, and it's not a thought-leadership exercise. It's practical thinking, shaped by delivery.
+        </p>
+    </div>
+</section>
+
+<section class="partnership-section">
+    <div class="container">
+        <div class="filter-tabs">
+            <button class="filter-tab @(activeFilter == "All" ? "active" : "")" @onclick='() => SetFilter("All")'>All</button>
+            <button class="filter-tab @(activeFilter == "Journal" ? "active" : "")" @onclick='() => SetFilter("Journal")'>Journal</button>
+            <button class="filter-tab @(activeFilter == "Industry news" ? "active" : "")" @onclick='() => SetFilter("Industry news")'>Industry news</button>
+            <button class="filter-tab @(activeFilter == "Resources" ? "active" : "")" @onclick='() => SetFilter("Resources")'>Resources</button>
+        </div>
+        
+        <div class="articles-grid">
+            <div class="article-card">
+                <div class="article-category">Journal</div>
+                <h4>Building travel platforms that survive contact with reality</h4>
+                <p>Most travel platforms don't fail because of bad ideas. They fail because small, reasonable decisions compound over time.</p>
+            </div>
+            
+            <div class="article-card">
+                <div class="article-category">Industry news</div>
+                <h4>Integration patterns that actually work in production</h4>
+                <p>The most reliable platforms aren't the ones with the cleanest architecture diagrams. They're designed with change and operational reality in mind.</p>
+            </div>
+            
+            <div class="article-card">
+                <div class="article-category">Resources</div>
+                <h4>API design for travel systems</h4>
+                <p>When systems don't talk properly, teams compensate with manual work and workarounds that slowly become business-critical.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="brand-statement">
+    <div class="container">
+        <h2>Tailored, tech-driven solutions for <span class="highlight">travel companies</span></h2>
+    </div>
+</section>
+
+<section class="partnership-section">
+    <div class="container">
+        <h2 class="section-heading">About Zolv</h2>
+        <p class="section-description">We're a travel technology partner focused on long-term platforms, not short-term campaigns.</p>
+        <a href="/about" class="btn btn-secondary">Learn more</a>
+    </div>
+</section>
+
+@code {
+    private string activeFilter = "All";
+    
+    private void SetFilter(string filter)
+    {
+        activeFilter = filter;
+        // In a real implementation, this would filter the articles
+    }
+}
